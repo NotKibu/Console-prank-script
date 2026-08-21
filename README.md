@@ -4,4 +4,3 @@
 
 ![Showcase](https://github.com/NotKibu/Console-prank-script/blob/assets/show.gif?raw=true)
 
-> **Note:** Literally made within 10 secs.
